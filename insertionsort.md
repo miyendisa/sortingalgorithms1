@@ -36,7 +36,7 @@ Dolayısıyla Big-O Notation = O(n²)
 
 ---
 
->**Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız**
+>**3) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız**
 
 >* **Average case:** Aradığımız sayının ortada olması
 > * **Worst case:** Aradığımız sayının sonda olması
